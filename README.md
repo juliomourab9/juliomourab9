@@ -2,7 +2,7 @@
 
 <p align="left">Engenheiro de dado e Desenvolvedor de Power BI.</p>
 
-<p align="left">✨ Lidero projetos com foco em eficiência operacional, controle, visão estratégica e inteligência comercial, sempre utilizando ferramentas como Power BI, SQL, DAX, Python, Alteryx, Pentaho e Google Cloud Platform.</p>
+<p align="left">Lidero projetos com foco em eficiência operacional, controle, visão estratégica e inteligência comercial, sempre utilizando ferramentas como Power BI, SQL, DAX, Python, Alteryx, Pentaho e Google Cloud Platform.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
