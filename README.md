@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá! Sejam bem vindos!</h1>
 
-<p align="left">My name is Julio Moura and I'm from Fortaleza, Brazil!</p>
+<p align="left">Engenheiro de dado, e Desenvolvedor de Power BI.</p>
 
-<p align="left">✨ Creating data and dashboards since 2020<br>📚 I'm currently learning Data Engineering<br>🎯 focus in projects and study.<br>🎲 Data Analysis</p>
+<p align="left">✨ Lidero projetos com foco em eficiência operacional, controle, visão estratégica e inteligência comercial, sempre utilizando ferramentas como Power BI, SQL, DAX, Python, Alteryx, Pentaho e Google Cloud Platform.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
