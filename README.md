@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Sejam bem vindos!</h1>
+<h1 align="left">Sejam bem vindos!</h1>
 
 <p align="left">Engenheiro de dado e Desenvolvedor de Power BI.</p>
 
